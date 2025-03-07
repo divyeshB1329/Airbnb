@@ -1,2 +1,2 @@
-# Airbnb
-A full-stack web application built using MongoDB, Express.js, React.js, and Node.js (MERN). This project includes user authentication (login/logout), a review section, a hotel listing page, and functionality to add, edit, and manage hotels.
+# MERN-Projects
+A dedicated repository for backend projects built using the MERN stack. Explore well-structured code, implement RESTful APIs, and leverage advanced backend concepts with MongoDB, Express.js, Node.js, and React. Ideal for developers looking to enhance their understanding of full-stack development.
